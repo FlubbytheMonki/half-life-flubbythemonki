@@ -25,18 +25,19 @@
 ![Screenshot 2026-10-10 194541](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/2c7bd2854a825154bab493d994f11fba9af189548d8200f42ff34195a7596a37.png)
 
 October 10:
-I started working on starbie as much as I can before the board arrives. I finished the kicad file which is now uploaded into github. Then I worked on setting up the arduino ide which worked great!
+I started working on starbie as much as I can before the board arrives. I finished the kicad file which is now uploaded into github.
 
 ![Screenshot 2026-10-10 193351](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/b9a594c6edf59e5a66ca876f38ff5341508108d2b0de2388f20f69b6fe3ed9ea.png)
 
 ![Screenshot 2026-10-10 193339](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/77dcf90f518bbbe74e5605b8648d3c8addd11459026ac33b9d6e17fd88c27aa4.png)
 
-![Screenshot 2026-10-10 194307](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/7bd9bc1dad9f1626efff63d2b3947acccbb909bf7877657d5170c6ee96ed7795.png)
-
 I also used the hackatime-help for my hours to sync to hackatime.
 
 ![Screenshot 2026-10-10 194447](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/891a087ddf4d8a0c946d07f65bb389ba7ddbf910dbb7e44813bc2e23383276e4.png)
 
-it took a while to finally get all the kicad stuff working but the arduino ide was a breeze.
-
 ![Screenshot 2026-10-10 194555](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/7c153185412323ffa48d3f7c67b47be642a5b2ba8597b0ea0d2929d8bb81ad76.png)
+
+im gonna work on trying to fix arduino ide in a later session, somethings not cooperating with it
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/b59573d591ba56cc40b61218d479eb3d5c02ba30cde51f6d485857bab35468cc.png)
+i think something to do with my directories or something
