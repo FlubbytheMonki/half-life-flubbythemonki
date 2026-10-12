@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 8.5h | 2 |
+| Week 1 | Tier 1 | 9h | 2 |
 
 ## Contents
 
@@ -45,7 +45,7 @@ i think something to do with my directories or something
 
 ### 2026-10-11 – October 11:
 
-**3.5h**
+**4h**
 
 October 11:
 I FINALLY got the arduino ide to work. I think the installation was failing multiple times but eventually I got it to work. Basically something was wrong with my environment variables. Then the esp32 libraries i got installed easily. Now I think im done with this week!
