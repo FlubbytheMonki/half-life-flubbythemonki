@@ -17,7 +17,7 @@
 | [Aosong dht11](https://www.lcsc.com/product-detail/C117051.html) | the environment sensor | 1 | $1.46 | $1.46 | [LCSC](https://www.lcsc.com/product-detail/C117051.html) |
 | [display](https://www.amazon.com/Dorhea-Display-3-3V-5V-Arduino-Raspberry/dp/B07FK8GB8T?channelId=500&clpRedir=Y&plpRedirect=mhFallback&th=1) | displaying all the controls and the menu for controlling the starbie | 1 | $5.99 | $5.99 | [DOREHA](https://www.amazon.com/Dorhea-Display-3-3V-5V-Arduino-Raspberry/dp/B07FK8GB8T?channelId=500&clpRedir=Y&plpRedirect=mhFallback&th=1) |
 | **Parts subtotal** | — | — | — | **$25.34** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$25.34** | — |
+| **Tax & shipping** | — | — | — | **$23.00** | — |
+| **Total** | — | — | — | **$48.34** | — |
 
-$4.66 left of the tier's funding.
+**$18.34 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
