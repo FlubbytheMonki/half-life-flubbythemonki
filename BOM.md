@@ -16,7 +16,7 @@
 | [cherry mx pcb](https://www.amazon.com/Wholesales-Authentic-Keyswitches-Mechanical-Replacement/dp/B07KMY6M8N?s=electronics&th=1) | the controls for the starbie (comes in pack of 5) | 1 | $7.99 | $7.99 | [HUYUN](https://www.amazon.com/Wholesales-Authentic-Keyswitches-Mechanical-Replacement/dp/B07KMY6M8N?s=electronics&th=1) |
 | [display](https://www.amazon.com/Dorhea-Display-3-3V-5V-Arduino-Raspberry/dp/B07FK8GB8T?channelId=500&clpRedir=Y&plpRedirect=mhFallback&th=1) | displaying all the controls and the menu for controlling the starbie | 1 | $5.99 | $5.99 | [DOREHA](https://www.amazon.com/Dorhea-Display-3-3V-5V-Arduino-Raspberry/dp/B07FK8GB8T?channelId=500&clpRedir=Y&plpRedirect=mhFallback&th=1) |
 | **Parts subtotal** | — | — | — | **$23.88** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$23.88** | — |
+| **Tax & shipping** | — | — | — | **$8.84** | — |
+| **Total** | — | — | — | **$32.72** | — |
 
-$6.12 left of the tier's funding.
+**$2.72 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
