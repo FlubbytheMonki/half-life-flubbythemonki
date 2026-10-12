@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 8h | 2 |
+| Week 1 | Tier 1 | 9h | 2 |
 
 ## Contents
 
@@ -45,7 +45,7 @@ i think something to do with my directories or something
 
 ### 2026-10-11 – October 11:
 
-**3h**
+**4h**
 
 October 11:
 I FINALLY got the arduino ide to work. I think the installation was failing multiple times but eventually I got it to work. Basically something was wrong with my environment variables. Then the esp32 libraries i got installed easily. Now I think im done with this week!
@@ -55,3 +55,5 @@ I FINALLY got the arduino ide to work. I think the installation was failing mult
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/cd44832c77887c7804454b9d87a8a87767f65d248dbd6b6db2d68e259ef6e94f.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/8d87f635fdc68f9692329941d1985cbfc6e128fc672c2910cef018aeeccb460f.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/saKKcCinDatxaETZ5Ko7yxbH7hews7vC/55769c60a4d7d72bb1c5c1e9013926825ee4c22a63d77c2aa905ffe6dd54a56b.png)
